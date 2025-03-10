@@ -25,14 +25,14 @@ while (isSunk == false) {
                 isSunk = true;
                 alert("You sank my battleship!🤑🤑")
             }
-        }else{
+        }e
             alert("You Miss😘")
     }
 
     }
 
     
-}
+
 var stats = "You sank my battleship at: " + guesses + "guesses" + "and your accuracy is: " + (3/guesses);
 
 alert(stats);
