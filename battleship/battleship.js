@@ -25,8 +25,11 @@ while (isSunk == false) {
                 isSunk = true;
                 alert("You sank my battleship!🤑🤑")
             }
-        }e
+        }else{
+
+        
             alert("You Miss😘")
+        }
     }
 
     }
